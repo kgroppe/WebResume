@@ -1,0 +1,28 @@
+p.header {
+text-align: center;
+font-size: 24px;
+margin-bottom: 0px;
+}
+p.mix{
+border-style: solid none solid none;
+margin-top: 0px;
+text-align: center;
+}
+
+
+a:link {
+    color: cyan;
+
+}
+
+a:visited {
+    color: darkcyan;
+}
+
+a:hover{
+    color: aqua;
+}
+
+a:active {
+    color: aquamarine;
+}
