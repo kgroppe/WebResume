@@ -5,9 +5,10 @@ margin-bottom: 0px;
 }
 p.headerItalic{
     text-align: left;
-    font-style: italic, bold;
+    font-style: italic;
     margin-left: 50px;
     margin-right: 50px;
+    margin-top: 0px;
 }
 p.mix{
 border-style: solid none solid none;
@@ -56,3 +57,11 @@ margin-right: 50px;
     display: inline-block;
 }
 
+p.b {
+display: inline block;
+width: adaptive;
+height: adaptive;
+border: none;
+padding: 5px;
+margin-left: 45px;
+}
