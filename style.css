@@ -3,12 +3,27 @@ text-align: center;
 font-size: 24px;
 margin-bottom: 0px;
 }
+p.headerItalic{
+    text-align: left;
+    font-style: italic, bold;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 p.mix{
 border-style: solid none solid none;
 margin-top: 0px;
 text-align: center;
+margin-left: 50px;
+margin-right: 50px;
 }
 
+p.bottom{
+border-style: none none solid none;
+margin-top: 15px;
+text-align: left;
+margin-left: 50px;
+margin-right: 50px;
+}
 
 a:link {
     color: cyan;
@@ -26,3 +41,18 @@ a:hover{
 a:active {
     color: aquamarine;
 }
+
+ul{
+text-align: left;
+margin-left: 70px;
+margin-right: 50px;
+}
+
+.dot{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+
