@@ -43,10 +43,11 @@ a:active {
     color: aquamarine;
 }
 
-ul{
+ul.item{
 text-align: left;
 margin-left: 70px;
 margin-right: 50px;
+margin-top: 0px;
 }
 
 .dot{
@@ -57,11 +58,25 @@ margin-right: 50px;
     display: inline-block;
 }
 
-p.b {
+span.b {
 display: inline block;
-width: adaptive;
+width: 500px;
 height: adaptive;
 border: none;
-padding: 5px;
-margin-left: 45px;
+margin-left: 50px;
+
+}
+
+ul.text{
+text-align: left;
+margin-left: 22px;
+margin-right: 50px;
+
+}
+
+dl.mod{
+text-align: left;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 0px;
 }
