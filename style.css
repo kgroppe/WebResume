@@ -27,16 +27,16 @@ margin-right: 50px;
 }
 
 a:link {
-    color: cyan;
+    color: dodgerblue;
 
 }
 
 a:visited {
-    color: darkcyan;
+    color: slateblue;
 }
 
 a:hover{
-    color: aqua;
+    color: indigo;
 }
 
 a:active {
