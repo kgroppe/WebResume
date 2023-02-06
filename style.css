@@ -74,9 +74,10 @@ margin-right: 50px;
 
 }
 
-dl.mod{
+ul.noBullet{
 text-align: left;
-margin-left: 50px;
+margin-left: 10px;
 margin-right: 50px;
 margin-top: 0px;
+list-style-type: none;
 }
